@@ -7,6 +7,7 @@ This project examines how immigration attitudes influence political partisanship
 Using the 2015 Syrian Refugee Crisis as a quasi-experimental shock, this study investigates whether refugee resettlement increased support for right-wing political parties, particularly Conservative voting intention.
 
 The analysis combines immigration sentiment analysis with a Difference-in-Differences (DiD) design to identify both correlation and causal effects.
+
 ---
 
 ## Methods Used
@@ -38,10 +39,24 @@ The analysis combines immigration sentiment analysis with a Difference-in-Differ
 
 ---
 
+## Data Access
+
+Data for this project was sourced from:
+- Innovative Research Group (CTM surveys)
+- Statistics Canada
+- Immigrant Services Society of BC
+
+Raw survey data is not publicly included in this repository due to access restrictions and data-sharing limitations.
+
+This repository includes methodology, analysis scripts, and summarized outputs only.
+
+---
+
 ## Files
 
 - `Final_Report.pdf` — Full capstone research paper
 - `scripts/` — R scripts for regression models and analysis
-- `data/` — cleaned/sample datasets and data documentation
+- `data_sources.md` — documentation of dataset sources and structure
 - `outputs/` — figures, tables, and regression outputs
 
+---
