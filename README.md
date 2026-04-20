@@ -56,7 +56,6 @@ This repository includes methodology, analysis scripts, and summarized outputs o
 
 - `Final_Report.pdf` — Full capstone research paper
 - `scripts/` — R scripts for regression models and analysis
-- `data_sources.md` — documentation of dataset sources and structure
-- `outputs/` — figures, tables, and regression outputs
+
 
 ---
